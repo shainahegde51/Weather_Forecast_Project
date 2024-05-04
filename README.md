@@ -5,19 +5,20 @@ Authentication Method: Header-based authentication with random client id and ran
 
 How to Run Project
 
-Download the zip folder
+1.Download the zip folder
 
-Import Project in Tools(Intellij Idea).
+2.Import Project in Tools(Intellij Idea).
 
-Build the project
+3.Build the project
 
-Getting Access Token
+4.Getting Access Token
 
 follow the steps for output
 
 step1: Use default issuer for access token (https://dev-49329729.okta.com/oauth2/default)
 
 step2: For access token we need to set authorization header
+
 a) type-> basic Auth 
 
 b) username-> Client ID : 0oagvr9w5dfFs1QsZ5d7
@@ -29,12 +30,12 @@ d) in body we need to enter key and value After authorization header will be aut
 ![Screenshot 2024-05-04 171811](https://github.com/shainahegde51/Weather_Forecast_Project/assets/75922338/4caec126-f76c-45c7-b0fe-0cf268eb39b6)
 
 
-4)Access tocken
+e)Access tocken
 
 ![Screenshot 2024-05-04 172012](https://github.com/shainahegde51/Weather_Forecast_Project/assets/75922338/c708b606-0433-424d-a413-0a76cb50b332)
 
 
-output of 2 API
+5. output of 2 API
 
 API 1: Get the Weather forecast summary of Any city using API (RapidApiGetForecastSummaryByLocationName)
 In the below picture getting output for Forecast Summary By Location Name image
